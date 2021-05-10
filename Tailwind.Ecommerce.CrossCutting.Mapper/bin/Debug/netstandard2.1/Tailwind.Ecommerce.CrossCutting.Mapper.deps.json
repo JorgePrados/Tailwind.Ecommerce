@@ -1,0 +1,48 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Tailwind.Ecommerce.CrossCutting.Mapper/1.0.0": {
+        "dependencies": {
+          "Tailwind.Ecommerce.Application.DTO": "1.0.0",
+          "Tailwind.Ecommerce.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Tailwind.Ecommerce.CrossCutting.Mapper.dll": {}
+        }
+      },
+      "Tailwind.Ecommerce.Application.DTO/1.0.0": {
+        "runtime": {
+          "Tailwind.Ecommerce.Application.DTO.dll": {}
+        }
+      },
+      "Tailwind.Ecommerce.Domain.Entity/1.0.0": {
+        "runtime": {
+          "Tailwind.Ecommerce.Domain.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tailwind.Ecommerce.CrossCutting.Mapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tailwind.Ecommerce.Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tailwind.Ecommerce.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

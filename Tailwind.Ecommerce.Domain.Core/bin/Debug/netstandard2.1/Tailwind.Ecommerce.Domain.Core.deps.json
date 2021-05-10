@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Tailwind.Ecommerce.Domain.Core/1.0.0": {
+        "dependencies": {
+          "Tailwind.Ecommerce.Domain.Entity": "1.0.0",
+          "Tailwind.Ecommerce.Domain.Interface": "1.0.0",
+          "Tailwind.Ecommerce.Infrastructure.Interface": "1.0.0"
+        },
+        "runtime": {
+          "Tailwind.Ecommerce.Domain.Core.dll": {}
+        }
+      },
+      "Tailwind.Ecommerce.Domain.Entity/1.0.0": {
+        "runtime": {
+          "Tailwind.Ecommerce.Domain.Entity.dll": {}
+        }
+      },
+      "Tailwind.Ecommerce.Domain.Interface/1.0.0": {
+        "dependencies": {
+          "Tailwind.Ecommerce.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Tailwind.Ecommerce.Domain.Interface.dll": {}
+        }
+      },
+      "Tailwind.Ecommerce.Infrastructure.Interface/1.0.0": {
+        "dependencies": {
+          "Tailwind.Ecommerce.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Tailwind.Ecommerce.Infrastructure.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tailwind.Ecommerce.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tailwind.Ecommerce.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tailwind.Ecommerce.Domain.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tailwind.Ecommerce.Infrastructure.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

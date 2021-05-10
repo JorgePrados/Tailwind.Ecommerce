@@ -1,0 +1,12 @@
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Infrastructure.Data\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Infrastructure.Data.deps.json
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Infrastructure.Data\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Infrastructure.Data.dll
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Infrastructure.Data\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Infrastructure.Data.pdb
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Infrastructure.Data\bin\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Common.dll
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Infrastructure.Data\bin\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Common.pdb
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Infrastructure.Data\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Infrastructure.Data\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Infrastructure.Data\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Infrastructure.Data\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Infrastructure.Data\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Infrastructure.Data.csproj.CopyComplete
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Infrastructure.Data\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Infrastructure.Data.dll
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Infrastructure.Data\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Infrastructure.Data.pdb

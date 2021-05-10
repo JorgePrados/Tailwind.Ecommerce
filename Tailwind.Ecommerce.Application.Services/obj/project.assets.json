@@ -1,0 +1,212 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "Tailwind.Ecommerce.Application.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Tailwind.Ecommerce.Application.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tailwind.Ecommerce.Application.DTO.dll": {}
+        }
+      },
+      "Tailwind.Ecommerce.Application.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Tailwind.Ecommerce.Application.DTO": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Tailwind.Ecommerce.Application.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tailwind.Ecommerce.Application.Interface.dll": {}
+        }
+      },
+      "Tailwind.Ecommerce.CrossCutting.Mapper/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Tailwind.Ecommerce.Application.DTO": "1.0.0",
+          "Tailwind.Ecommerce.Domain.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Tailwind.Ecommerce.CrossCutting.Mapper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tailwind.Ecommerce.CrossCutting.Mapper.dll": {}
+        }
+      },
+      "Tailwind.Ecommerce.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Tailwind.Ecommerce.Domain.Entity": "1.0.0",
+          "Tailwind.Ecommerce.Domain.Interface": "1.0.0",
+          "Tailwind.Ecommerce.Infrastructure.Interface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Tailwind.Ecommerce.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tailwind.Ecommerce.Domain.Core.dll": {}
+        }
+      },
+      "Tailwind.Ecommerce.Domain.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Tailwind.Ecommerce.Domain.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tailwind.Ecommerce.Domain.Entity.dll": {}
+        }
+      },
+      "Tailwind.Ecommerce.Domain.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Tailwind.Ecommerce.Domain.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Tailwind.Ecommerce.Domain.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tailwind.Ecommerce.Domain.Interface.dll": {}
+        }
+      },
+      "Tailwind.Ecommerce.Infrastructure.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Tailwind.Ecommerce.Domain.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Tailwind.Ecommerce.Infrastructure.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tailwind.Ecommerce.Infrastructure.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tailwind.Ecommerce.Application.DTO/1.0.0": {
+      "type": "project",
+      "path": "../Tailwind.Ecommerce.Application.DTO/Tailwind.Ecommerce.Application.DTO.csproj",
+      "msbuildProject": "../Tailwind.Ecommerce.Application.DTO/Tailwind.Ecommerce.Application.DTO.csproj"
+    },
+    "Tailwind.Ecommerce.Application.Interface/1.0.0": {
+      "type": "project",
+      "path": "../Tailwind.Ecommerce.Application.interface/Tailwind.Ecommerce.Application.Interface.csproj",
+      "msbuildProject": "../Tailwind.Ecommerce.Application.interface/Tailwind.Ecommerce.Application.Interface.csproj"
+    },
+    "Tailwind.Ecommerce.CrossCutting.Mapper/1.0.0": {
+      "type": "project",
+      "path": "../Tailwind.Ecommerce.CrossCutting.Mapper/Tailwind.Ecommerce.CrossCutting.Mapper.csproj",
+      "msbuildProject": "../Tailwind.Ecommerce.CrossCutting.Mapper/Tailwind.Ecommerce.CrossCutting.Mapper.csproj"
+    },
+    "Tailwind.Ecommerce.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../Tailwind.Ecommerce.Domain.Core/Tailwind.Ecommerce.Domain.Core.csproj",
+      "msbuildProject": "../Tailwind.Ecommerce.Domain.Core/Tailwind.Ecommerce.Domain.Core.csproj"
+    },
+    "Tailwind.Ecommerce.Domain.Entity/1.0.0": {
+      "type": "project",
+      "path": "../Tailwind.Ecommerce.Domain.Entity/Tailwind.Ecommerce.Domain.Entity.csproj",
+      "msbuildProject": "../Tailwind.Ecommerce.Domain.Entity/Tailwind.Ecommerce.Domain.Entity.csproj"
+    },
+    "Tailwind.Ecommerce.Domain.Interface/1.0.0": {
+      "type": "project",
+      "path": "../Tailwind.Ecommerce.Domain.Interface/Tailwind.Ecommerce.Domain.Interface.csproj",
+      "msbuildProject": "../Tailwind.Ecommerce.Domain.Interface/Tailwind.Ecommerce.Domain.Interface.csproj"
+    },
+    "Tailwind.Ecommerce.Infrastructure.Interface/1.0.0": {
+      "type": "project",
+      "path": "../Tailwind.Ecommerce.Infrastructure.Interface/Tailwind.Ecommerce.Infrastructure.Interface.csproj",
+      "msbuildProject": "../Tailwind.Ecommerce.Infrastructure.Interface/Tailwind.Ecommerce.Infrastructure.Interface.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "Tailwind.Ecommerce.Application.DTO >= 1.0.0",
+      "Tailwind.Ecommerce.Application.Interface >= 1.0.0",
+      "Tailwind.Ecommerce.CrossCutting.Mapper >= 1.0.0",
+      "Tailwind.Ecommerce.Domain.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jpradospalomo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\jpradospalomo\\Desktop\\PRACTICAS\\Tailwind.ECommerce\\Tailwind.Ecommerce.Application.Services\\Tailwind.Ecommerce.Application.Services.csproj",
+      "projectName": "Tailwind.Ecommerce.Application.Services",
+      "projectPath": "C:\\Users\\jpradospalomo\\Desktop\\PRACTICAS\\Tailwind.ECommerce\\Tailwind.Ecommerce.Application.Services\\Tailwind.Ecommerce.Application.Services.csproj",
+      "packagesPath": "C:\\Users\\jpradospalomo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jpradospalomo\\Desktop\\PRACTICAS\\Tailwind.ECommerce\\Tailwind.Ecommerce.Application.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\jpradospalomo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "\\\\Eshomedpt001\\tecnologia$\\Desarrollo\\Software\\Nugets repository V2": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.nuget.org/api/v2": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "C:\\Users\\jpradospalomo\\Desktop\\PRACTICAS\\Tailwind.ECommerce\\Tailwind.Ecommerce.Application.DTO\\Tailwind.Ecommerce.Application.DTO.csproj": {
+              "projectPath": "C:\\Users\\jpradospalomo\\Desktop\\PRACTICAS\\Tailwind.ECommerce\\Tailwind.Ecommerce.Application.DTO\\Tailwind.Ecommerce.Application.DTO.csproj"
+            },
+            "C:\\Users\\jpradospalomo\\Desktop\\PRACTICAS\\Tailwind.ECommerce\\Tailwind.Ecommerce.Application.interface\\Tailwind.Ecommerce.Application.Interface.csproj": {
+              "projectPath": "C:\\Users\\jpradospalomo\\Desktop\\PRACTICAS\\Tailwind.ECommerce\\Tailwind.Ecommerce.Application.interface\\Tailwind.Ecommerce.Application.Interface.csproj"
+            },
+            "C:\\Users\\jpradospalomo\\Desktop\\PRACTICAS\\Tailwind.ECommerce\\Tailwind.Ecommerce.CrossCutting.Mapper\\Tailwind.Ecommerce.CrossCutting.Mapper.csproj": {
+              "projectPath": "C:\\Users\\jpradospalomo\\Desktop\\PRACTICAS\\Tailwind.ECommerce\\Tailwind.Ecommerce.CrossCutting.Mapper\\Tailwind.Ecommerce.CrossCutting.Mapper.csproj"
+            },
+            "C:\\Users\\jpradospalomo\\Desktop\\PRACTICAS\\Tailwind.ECommerce\\Tailwind.Ecommerce.Domain.Core\\Tailwind.Ecommerce.Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\jpradospalomo\\Desktop\\PRACTICAS\\Tailwind.ECommerce\\Tailwind.Ecommerce.Domain.Core\\Tailwind.Ecommerce.Domain.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

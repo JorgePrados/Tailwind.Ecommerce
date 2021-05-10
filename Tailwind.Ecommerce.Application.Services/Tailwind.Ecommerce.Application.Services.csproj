@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tailwind.Ecommerce.Application.DTO\Tailwind.Ecommerce.Application.DTO.csproj" />
+    <ProjectReference Include="..\Tailwind.Ecommerce.Application.interface\Tailwind.Ecommerce.Application.Interface.csproj" />
+    <ProjectReference Include="..\Tailwind.Ecommerce.CrossCutting.Mapper\Tailwind.Ecommerce.CrossCutting.Mapper.csproj" />
+    <ProjectReference Include="..\Tailwind.Ecommerce.Domain.Core\Tailwind.Ecommerce.Domain.Core.csproj" />
+  </ItemGroup>
+
+</Project>

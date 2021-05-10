@@ -1,0 +1,9 @@
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Common\bin\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Common.deps.json
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Common\bin\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Common.dll
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Common\bin\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Common.pdb
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Common\obj\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Common.csprojAssemblyReference.cache
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Common\obj\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Common.AssemblyInfoInputs.cache
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Common\obj\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Common.AssemblyInfo.cs
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Common\obj\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Common.csproj.CoreCompileInputs.cache
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Common\obj\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Common.dll
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Common\obj\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Common.pdb

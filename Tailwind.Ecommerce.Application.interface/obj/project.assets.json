@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "Tailwind.Ecommerce.Application.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Tailwind.Ecommerce.Application.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tailwind.Ecommerce.Application.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tailwind.Ecommerce.Application.DTO/1.0.0": {
+      "type": "project",
+      "path": "../Tailwind.Ecommerce.Application.DTO/Tailwind.Ecommerce.Application.DTO.csproj",
+      "msbuildProject": "../Tailwind.Ecommerce.Application.DTO/Tailwind.Ecommerce.Application.DTO.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "Tailwind.Ecommerce.Application.DTO >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jpradospalomo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\jpradospalomo\\Desktop\\PRACTICAS\\Tailwind.ECommerce\\Tailwind.Ecommerce.Application.interface\\Tailwind.Ecommerce.Application.Interface.csproj",
+      "projectName": "Tailwind.Ecommerce.Application.Interface",
+      "projectPath": "C:\\Users\\jpradospalomo\\Desktop\\PRACTICAS\\Tailwind.ECommerce\\Tailwind.Ecommerce.Application.interface\\Tailwind.Ecommerce.Application.Interface.csproj",
+      "packagesPath": "C:\\Users\\jpradospalomo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jpradospalomo\\Desktop\\PRACTICAS\\Tailwind.ECommerce\\Tailwind.Ecommerce.Application.interface\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\jpradospalomo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "\\\\Eshomedpt001\\tecnologia$\\Desarrollo\\Software\\Nugets repository V2": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.nuget.org/api/v2": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "C:\\Users\\jpradospalomo\\Desktop\\PRACTICAS\\Tailwind.ECommerce\\Tailwind.Ecommerce.Application.DTO\\Tailwind.Ecommerce.Application.DTO.csproj": {
+              "projectPath": "C:\\Users\\jpradospalomo\\Desktop\\PRACTICAS\\Tailwind.ECommerce\\Tailwind.Ecommerce.Application.DTO\\Tailwind.Ecommerce.Application.DTO.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

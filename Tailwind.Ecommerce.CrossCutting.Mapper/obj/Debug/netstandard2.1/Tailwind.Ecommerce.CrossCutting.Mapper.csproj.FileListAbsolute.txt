@@ -1,0 +1,14 @@
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Mapper\bin\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Mapper.deps.json
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Mapper\bin\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Mapper.dll
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Mapper\bin\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Mapper.pdb
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Mapper\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Application.DTO.dll
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Mapper\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Entity.dll
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Mapper\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Application.DTO.pdb
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Mapper\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Entity.pdb
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Mapper\obj\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Mapper.csprojAssemblyReference.cache
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Mapper\obj\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Mapper.AssemblyInfoInputs.cache
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Mapper\obj\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Mapper.AssemblyInfo.cs
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Mapper\obj\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Mapper\obj\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Mapper.csproj.CopyComplete
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Mapper\obj\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Mapper.dll
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Mapper\obj\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Mapper.pdb

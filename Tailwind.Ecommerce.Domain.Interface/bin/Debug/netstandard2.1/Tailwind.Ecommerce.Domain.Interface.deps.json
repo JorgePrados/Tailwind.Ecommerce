@@ -1,0 +1,37 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Tailwind.Ecommerce.Domain.Interface/1.0.0": {
+        "dependencies": {
+          "Tailwind.Ecommerce.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Tailwind.Ecommerce.Domain.Interface.dll": {}
+        }
+      },
+      "Tailwind.Ecommerce.Domain.Entity/1.0.0": {
+        "runtime": {
+          "Tailwind.Ecommerce.Domain.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tailwind.Ecommerce.Domain.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tailwind.Ecommerce.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

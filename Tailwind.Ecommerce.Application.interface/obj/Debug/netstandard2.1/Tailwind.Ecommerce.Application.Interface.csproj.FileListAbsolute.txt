@@ -1,0 +1,12 @@
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Application.interface\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Application.Interface.deps.json
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Application.interface\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Application.Interface.dll
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Application.interface\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Application.Interface.pdb
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Application.interface\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Application.DTO.dll
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Application.interface\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Application.DTO.pdb
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Application.interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Application.Interface.csprojAssemblyReference.cache
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Application.interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Application.Interface.AssemblyInfoInputs.cache
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Application.interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Application.Interface.AssemblyInfo.cs
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Application.interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Application.Interface.csproj.CoreCompileInputs.cache
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Application.interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Application.Interface.csproj.CopyComplete
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Application.interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Application.Interface.dll
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Application.interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Application.Interface.pdb

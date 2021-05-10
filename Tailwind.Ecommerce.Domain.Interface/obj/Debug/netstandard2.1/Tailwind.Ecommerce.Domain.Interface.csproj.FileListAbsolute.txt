@@ -1,0 +1,12 @@
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Domain.Interface\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Interface.deps.json
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Domain.Interface\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Interface.dll
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Domain.Interface\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Interface.pdb
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Domain.Interface\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Entity.dll
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Domain.Interface\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Entity.pdb
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Domain.Interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Interface.csprojAssemblyReference.cache
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Domain.Interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Interface.AssemblyInfoInputs.cache
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Domain.Interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Interface.AssemblyInfo.cs
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Domain.Interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Interface.csproj.CoreCompileInputs.cache
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Domain.Interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Interface.csproj.CopyComplete
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Domain.Interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Interface.dll
+C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Domain.Interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Interface.pdb

@@ -8,6 +8,10 @@ namespace Tailwind.Ecommerce.Domain.Interface
 {
     public interface IClientLogic
     {
-        Task<List<Client>> GetAllClients();
+        Task<int> Add(Client client);
+        Task<int> Delete(int id);
+        Task<Client> Get(int id);
+        Task<IEnumerable<Client>> GetAll();
+        Task<int> Update(Client client);
     }
 }

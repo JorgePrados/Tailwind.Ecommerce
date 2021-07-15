@@ -23,5 +23,38 @@ namespace Tailwind.Ecommerce.Domain.Core
 
             return user;
         }
+        public async Task<int> Add(User user)
+        {
+            var result = (await _userRepository.Add(user));
+
+            return result;
+        }
+        public async Task<int> Delete(int id)
+        {
+            var result = (await _userRepository.Delete(id));
+
+            return result;
+        }
+
+        public async Task<User> Get(int id)
+        {
+            var user = (await _userRepository.Get(id));
+
+            return user;
+        }
+
+        public async Task<IEnumerable<User>> GetAll()
+        {
+            var user = (await _userRepository.GetAll());
+
+            return user;
+        }
+
+        public async Task<int> Update(User user)
+        {
+            var result = (await _userRepository.Update(user));
+
+            return result;
+        }
     }
 }

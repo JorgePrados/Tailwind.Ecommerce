@@ -7,3 +7,12 @@ C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.C
 C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Common\obj\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Common.csproj.CoreCompileInputs.cache
 C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Common\obj\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Common.dll
 C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.CrossCutting.Common\obj\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Common.pdb
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.CrossCutting.Common\bin\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Common.deps.json
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.CrossCutting.Common\bin\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Common.dll
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.CrossCutting.Common\bin\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Common.pdb
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.CrossCutting.Common\obj\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Common.AssemblyInfoInputs.cache
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.CrossCutting.Common\obj\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Common.AssemblyInfo.cs
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.CrossCutting.Common\obj\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Common.csproj.CoreCompileInputs.cache
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.CrossCutting.Common\obj\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Common.dll
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.CrossCutting.Common\obj\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Common.pdb
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.CrossCutting.Common\obj\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Common.csprojAssemblyReference.cache

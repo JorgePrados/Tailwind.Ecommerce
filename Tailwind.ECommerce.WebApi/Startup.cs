@@ -43,9 +43,13 @@ namespace Tailwind.ECommerce.WebApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddCors(options => options.AddPolicy(this.myPolicy,builder => builder.WithOrigins(this.Configuration["Config:OriginCors"])
-                                                                                          .AllowAnyHeader()
-                                                                                          .AllowAnyMethod()));
+            
+            services.AddCors(options => options.AddPolicy(this.myPolicy, builder => builder.AllowAnyOrigin()
+                                                                                           .AllowAnyHeader()
+                                                                                           .AllowAnyMethod()));
+            
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Latest);
+
 
             var appSettingsSection = Configuration.GetSection("Config");
 
@@ -56,6 +60,7 @@ namespace Tailwind.ECommerce.WebApi
 
             services.AddSingleton<IConfiguration>(this.Configuration);
             services.AddSingleton<IConnectionFactory, ConnectionFactory>();
+            
             services.AddScoped<IClientServices, ClientServices>();
             services.AddScoped<IClientLogic, ClientLogic>();
             services.AddScoped<IClientRepository, ClientRepository>();
@@ -63,6 +68,44 @@ namespace Tailwind.ECommerce.WebApi
             services.AddScoped<IUserServices, UserServices>();
             services.AddScoped<IUserLogic, UserLogic>();
             services.AddScoped<IUserRepository, UserRepository>();
+
+            services.AddScoped<ICategoryServices, CategoryServices>();
+            services.AddScoped<ICategoryLogic, CategoryLogic>();
+            services.AddScoped<ICategoryRepository, CategoryRepository>();
+
+            services.AddScoped<IClientUserServices, ClientUserServices>();
+            services.AddScoped<IClientUserLogic, ClientUserLogic>();
+            services.AddScoped<IClientUserRepository, ClientUserRepository>();
+
+            services.AddScoped<IOrderHeaderServices, OrderHeaderServices>();
+            services.AddScoped<IOrderHeaderLogic, OrderHeaderLogic>();
+            services.AddScoped<IOrderHeaderRepository, OrderHeaderRepository>();
+
+            services.AddScoped<IOrderLineServices, OrderLineServices>();
+            services.AddScoped<IOrderLineLogic, OrderLineLogic>();
+            services.AddScoped<IOrderLineRepository, OrderLineRepository>();
+
+            services.AddScoped<IOrderStateServices, OrderStateServices>();
+            services.AddScoped<IOrderStateLogic, OrderStateLogic>();
+            services.AddScoped<IOrderStateRepository, OrderStateRepository>();
+
+            services.AddScoped<IPaymentMethodServices, PaymentMethodServices>();
+            services.AddScoped<IPaymentMethodLogic, PaymentMethodLogic>();
+            services.AddScoped<IPaymentMethodRepository, PaymentMethodRepository>();
+
+            services.AddScoped<IProductServices, ProductServices>();
+            services.AddScoped<IProductLogic, ProductLogic>();
+            services.AddScoped<IProductRepository, ProductRepository>();
+
+            services.AddScoped<ITableRepository, TableRepository>();
+
+            services.AddScoped<IColumnTableLogic, ColumnTableLogic>();
+            services.AddScoped<IColumnTableRepository, ColumnTableRepository>();
+
+            services.AddScoped<IConfigurationTableRepository, ConfigurationTableRepository>();
+
+            services.AddScoped<IColumnTableManagmentServices, ColumnTableManagmentServices>();
+            services.AddScoped<IColumnTableManagmentLogic, ColumnTableManagmentLogic>();
 
             var key = Encoding.ASCII.GetBytes(appSettings.Secret);
             var Issuer = appSettings.Issuer;
@@ -134,7 +177,8 @@ namespace Tailwind.ECommerce.WebApi
                     Description = "Authorization by API key.",
                     In = ParameterLocation.Header,
                     Type = SecuritySchemeType.ApiKey,
-                    Name = "Authorization"
+                    Name = "Authorization",
+                    //BearerFormat = "JWT"
                 });
 
                 c.AddSecurityRequirement(new OpenApiSecurityRequirement {
@@ -177,6 +221,8 @@ namespace Tailwind.ECommerce.WebApi
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API Ecommerce V1");
             });
             
+            app.UseCors(this.myPolicy);
+
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
@@ -184,7 +230,6 @@ namespace Tailwind.ECommerce.WebApi
                 endpoints.MapControllers();
             });
 
-            app.UseCors(this.myPolicy);
 
             app.UseAuthentication();
         }

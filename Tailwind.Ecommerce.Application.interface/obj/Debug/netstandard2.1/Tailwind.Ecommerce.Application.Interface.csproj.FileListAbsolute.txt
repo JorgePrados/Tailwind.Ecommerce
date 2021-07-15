@@ -10,3 +10,17 @@ C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.A
 C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Application.interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Application.Interface.csproj.CopyComplete
 C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Application.interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Application.Interface.dll
 C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Application.interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Application.Interface.pdb
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Application.interface\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Application.Interface.deps.json
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Application.interface\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Application.Interface.dll
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Application.interface\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Application.Interface.pdb
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Application.interface\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Application.DTO.dll
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Application.interface\bin\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Common.dll
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Application.interface\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Application.DTO.pdb
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Application.interface\bin\Debug\netstandard2.1\Tailwind.Ecommerce.CrossCutting.Common.pdb
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Application.interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Application.Interface.csprojAssemblyReference.cache
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Application.interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Application.Interface.AssemblyInfoInputs.cache
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Application.interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Application.Interface.AssemblyInfo.cs
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Application.interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Application.Interface.csproj.CoreCompileInputs.cache
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Application.interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Application.Interface.csproj.CopyComplete
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Application.interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Application.Interface.dll
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Application.interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Application.Interface.pdb

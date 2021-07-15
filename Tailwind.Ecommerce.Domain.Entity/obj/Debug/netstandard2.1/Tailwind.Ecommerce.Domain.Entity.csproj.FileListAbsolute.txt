@@ -7,3 +7,12 @@ C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.D
 C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Entity.csproj.CoreCompileInputs.cache
 C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Entity.dll
 C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Entity.pdb
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Domain.Entity\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Entity.deps.json
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Domain.Entity\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Entity.dll
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Domain.Entity\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Entity.pdb
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Entity.csprojAssemblyReference.cache
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Entity.AssemblyInfoInputs.cache
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Entity.AssemblyInfo.cs
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Entity.csproj.CoreCompileInputs.cache
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Entity.dll
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Entity.pdb

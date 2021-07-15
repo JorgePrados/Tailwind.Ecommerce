@@ -15,7 +15,6 @@ using Tailwind.ECommerce.WebApi.Helpers;
 
 namespace Tailwind.ECommerce.WebApi.Controllers
 {
-    [Authorize]
     [ApiController]
     [Route("api/[controller]")]
     public class UserController : Controller
@@ -27,18 +26,71 @@ namespace Tailwind.ECommerce.WebApi.Controllers
             _userServices = userServices;
             _appSettings = appSettings.Value;
         }
+
         [AllowAnonymous]
         [HttpPost("authenticate")]
         public async Task<IActionResult> Authenticate(UserDto userDto)
         {
-            var user = await _userServices.Authenticate(userDto.UserName, userDto.Password);
+            var user = await _userServices.Authenticate(userDto.userName, userDto.password);
 
-            user.Token = BuildToken(user);
-
+            if (user.userId != 0)
+            {
+                user.token = BuildToken(user);
+            }
             return Ok(user);
         }
 
-        private string BuildToken(UserDto usersDto)
+        [HttpPost("add")]
+        public async Task<IActionResult> Add(UserDto userDto)
+        {
+            var result = (await _userServices.Add(userDto));
+
+            return Ok(result);
+        }
+
+        [HttpPost("delete")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var result = (await _userServices.Delete(id));
+
+            return Ok(result);
+        }
+
+        [HttpPost("get")]
+        public async Task<IActionResult> Get(int id)
+        {
+            var users = (await _userServices.Get(id));
+
+            return Ok(users);
+        }
+
+        [HttpPost("getAll")]
+        public async Task<IActionResult> GetAll()
+        {
+            var users = (await _userServices.GetAll());
+
+            return Ok(users);
+        }
+
+        [HttpPost("update")]
+        public async Task<IActionResult> Update(UserDto userDto)
+        {
+            int result = (await _userServices.Update(userDto));
+
+            return Ok(result);
+        }
+
+
+
+
+
+
+
+
+
+
+
+        private string BuildToken(UserDto userDto)
         {
             var tokenHandler = new JwtSecurityTokenHandler();
             byte[] key = Encoding.ASCII.GetBytes(_appSettings.Secret);
@@ -46,9 +98,9 @@ namespace Tailwind.ECommerce.WebApi.Controllers
             {
                 Subject = new ClaimsIdentity(new Claim[]
                 {
-                    new Claim(ClaimTypes.Name, usersDto.userId.ToString())
+                    new Claim(ClaimTypes.Name, userDto.userId.ToString())
                 }),
-                Expires = DateTime.UtcNow.AddMinutes(1),
+                Expires = DateTime.UtcNow.AddMinutes(20),
                 SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature),
                 Issuer = _appSettings.Issuer,
                 Audience = _appSettings.Audience

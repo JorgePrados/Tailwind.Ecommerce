@@ -10,3 +10,15 @@ C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.I
 C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Infrastructure.Interface\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Entity.dll
 C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Infrastructure.Interface\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Entity.pdb
 C:\Users\jpradospalomo\Desktop\PRACTICAS\Tailwind.ECommerce\Tailwind.Ecommerce.Infrastructure.Interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Infrastructure.Interface.csproj.CopyComplete
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Infrastructure.Interface\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Infrastructure.Interface.deps.json
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Infrastructure.Interface\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Infrastructure.Interface.dll
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Infrastructure.Interface\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Infrastructure.Interface.pdb
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Infrastructure.Interface\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Entity.dll
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Infrastructure.Interface\bin\Debug\netstandard2.1\Tailwind.Ecommerce.Domain.Entity.pdb
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Infrastructure.Interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Infrastructure.Interface.csprojAssemblyReference.cache
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Infrastructure.Interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Infrastructure.Interface.AssemblyInfoInputs.cache
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Infrastructure.Interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Infrastructure.Interface.AssemblyInfo.cs
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Infrastructure.Interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Infrastructure.Interface.csproj.CoreCompileInputs.cache
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Infrastructure.Interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Infrastructure.Interface.csproj.CopyComplete
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Infrastructure.Interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Infrastructure.Interface.dll
+C:\Users\34638\Desktop\Proyectos\ECommerce\Backend\Tailwind.Ecommerce\Tailwind.Ecommerce.Infrastructure.Interface\obj\Debug\netstandard2.1\Tailwind.Ecommerce.Infrastructure.Interface.pdb

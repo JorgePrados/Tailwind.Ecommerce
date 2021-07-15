@@ -8,19 +8,24 @@
     ".NETStandard,Version=v2.1": []
   },
   "packageFolders": {
-    "C:\\Users\\jpradospalomo\\.nuget\\packages\\": {}
+    "C:\\Users\\34638\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jpradospalomo\\Desktop\\PRACTICAS\\Tailwind.ECommerce\\Tailwind.Ecommerce.Domain.Entity\\Tailwind.Ecommerce.Domain.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\34638\\Desktop\\Proyectos\\ECommerce\\Backend\\Tailwind.Ecommerce\\Tailwind.Ecommerce.Domain.Entity\\Tailwind.Ecommerce.Domain.Entity.csproj",
       "projectName": "Tailwind.Ecommerce.Domain.Entity",
-      "projectPath": "C:\\Users\\jpradospalomo\\Desktop\\PRACTICAS\\Tailwind.ECommerce\\Tailwind.Ecommerce.Domain.Entity\\Tailwind.Ecommerce.Domain.Entity.csproj",
-      "packagesPath": "C:\\Users\\jpradospalomo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jpradospalomo\\Desktop\\PRACTICAS\\Tailwind.ECommerce\\Tailwind.Ecommerce.Domain.Entity\\obj\\",
+      "projectPath": "C:\\Users\\34638\\Desktop\\Proyectos\\ECommerce\\Backend\\Tailwind.Ecommerce\\Tailwind.Ecommerce.Domain.Entity\\Tailwind.Ecommerce.Domain.Entity.csproj",
+      "packagesPath": "C:\\Users\\34638\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\34638\\Desktop\\Proyectos\\ECommerce\\Backend\\Tailwind.Ecommerce\\Tailwind.Ecommerce.Domain.Entity\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\jpradospalomo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\34638\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,9 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "\\\\Eshomedpt001\\tecnologia$\\Desarrollo\\Software\\Nugets repository V2": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://www.nuget.org/api/v2": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.1": {
@@ -62,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

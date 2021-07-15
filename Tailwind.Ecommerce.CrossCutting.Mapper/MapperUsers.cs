@@ -14,11 +14,11 @@ namespace Tailwind.Ecommerce.CrossCutting.Mapper
             if (user != null)
             {
                 userDto.userId = user.Id;
-                userDto.UserCode = user.UserCode;
-                userDto.FirstName = user.FirstName;
-                userDto.LastName = user.LastName;
-                userDto.UserName = user.UserName;
-                userDto.Password = user.Password;
+                userDto.userCode = user.UserCode;
+                userDto.firstName = user.FirstName;
+                userDto.lastName = user.LastName;
+                userDto.userName = user.UserName;
+                userDto.password = user.Password;
             }
             return userDto;
         }
@@ -29,11 +29,11 @@ namespace Tailwind.Ecommerce.CrossCutting.Mapper
             if (userDto != null)
             {
                 user.Id = userDto.userId;
-                user.UserCode = userDto.UserCode;
-                user.FirstName = userDto.FirstName;
-                user.LastName = userDto.LastName;
-                user.UserName = userDto.UserName;
-                user.Password = userDto.Password;
+                user.UserCode = userDto.userCode;
+                user.FirstName = userDto.firstName;
+                user.LastName = userDto.lastName;
+                user.UserName = userDto.userName;
+                user.Password = userDto.password;
             }
             return user;
         }

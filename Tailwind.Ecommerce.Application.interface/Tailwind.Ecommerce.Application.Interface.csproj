@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Tailwind.Ecommerce.Application.DTO\Tailwind.Ecommerce.Application.DTO.csproj" />
+    <ProjectReference Include="..\Tailwind.Ecommerce.CrossCutting.Common\Tailwind.Ecommerce.CrossCutting.Common.csproj" />
   </ItemGroup>
 
 </Project>

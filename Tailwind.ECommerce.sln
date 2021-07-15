@@ -19,8 +19,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tailwind.Ecommerce.Applicat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tailwind.Ecommerce.Application.Services", "Tailwind.Ecommerce.Application.Services\Tailwind.Ecommerce.Application.Services.csproj", "{BA68DB09-BA90-41B7-ADF3-AF3466C9A966}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tailwind.ECommerce.WebApi", "Tailwind.ECommerce.WebApi\Tailwind.ECommerce.WebApi.csproj", "{F5644D2E-B832-42C7-B655-CD2D4EDC91E6}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tailwind.Ecommerce.Domain.Entity", "Tailwind.Ecommerce.Domain.Entity\Tailwind.Ecommerce.Domain.Entity.csproj", "{8CC17594-B390-46E4-B1C6-A31552959996}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tailwind.Ecommerce.Domain.Core", "Tailwind.Ecommerce.Domain.Core\Tailwind.Ecommerce.Domain.Core.csproj", "{8DDEDCC6-4AAF-4189-AF14-5A100D0E84AA}"
@@ -29,13 +27,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tailwind.Ecommerce.Domain.I
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tailwind.Ecommerce.CrossCutting.Mapper", "Tailwind.Ecommerce.CrossCutting.Mapper\Tailwind.Ecommerce.CrossCutting.Mapper.csproj", "{95C9116A-FCED-4706-9542-53A856901486}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tailwind.Ecommerce.Infrastructure.Interface", "Tailwind.Ecommerce.Infrastructure.Interface\Tailwind.Ecommerce.Infrastructure.Interface.csproj", "{5EF6D553-5449-42CD-ABE5-E761E9EA79AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tailwind.Ecommerce.Infrastructure.Interface", "Tailwind.Ecommerce.Infrastructure.Interface\Tailwind.Ecommerce.Infrastructure.Interface.csproj", "{5EF6D553-5449-42CD-ABE5-E761E9EA79AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tailwind.Ecommerce.Infrastructure.Repository", "Tailwind.Ecommerce.Infrastructure.Repository\Tailwind.Ecommerce.Infrastructure.Repository.csproj", "{C23282E4-8974-481A-8532-3C7C9016C0BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tailwind.Ecommerce.Infrastructure.Repository", "Tailwind.Ecommerce.Infrastructure.Repository\Tailwind.Ecommerce.Infrastructure.Repository.csproj", "{C23282E4-8974-481A-8532-3C7C9016C0BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tailwind.Ecommerce.Infrastructure.Data", "Tailwind.Ecommerce.Infrastructure.Data\Tailwind.Ecommerce.Infrastructure.Data.csproj", "{6C730BE5-EB4A-414B-A208-D7512256A5E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tailwind.Ecommerce.Infrastructure.Data", "Tailwind.Ecommerce.Infrastructure.Data\Tailwind.Ecommerce.Infrastructure.Data.csproj", "{6C730BE5-EB4A-414B-A208-D7512256A5E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tailwind.Ecommerce.CrossCutting.Common", "Tailwind.Ecommerce.CrossCutting.Common\Tailwind.Ecommerce.CrossCutting.Common.csproj", "{86E5E703-DC3B-4C0B-AE2E-4C71C05B8C1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tailwind.Ecommerce.CrossCutting.Common", "Tailwind.Ecommerce.CrossCutting.Common\Tailwind.Ecommerce.CrossCutting.Common.csproj", "{86E5E703-DC3B-4C0B-AE2E-4C71C05B8C1A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tailwind.ECommerce.WebApi", "Tailwind.ECommerce.WebApi\Tailwind.ECommerce.WebApi.csproj", "{44DC2C82-C8FC-48A0-8F42-2F2B50200543}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,10 +55,6 @@ Global
 		{BA68DB09-BA90-41B7-ADF3-AF3466C9A966}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA68DB09-BA90-41B7-ADF3-AF3466C9A966}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA68DB09-BA90-41B7-ADF3-AF3466C9A966}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F5644D2E-B832-42C7-B655-CD2D4EDC91E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F5644D2E-B832-42C7-B655-CD2D4EDC91E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F5644D2E-B832-42C7-B655-CD2D4EDC91E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F5644D2E-B832-42C7-B655-CD2D4EDC91E6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8CC17594-B390-46E4-B1C6-A31552959996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8CC17594-B390-46E4-B1C6-A31552959996}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CC17594-B390-46E4-B1C6-A31552959996}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -91,6 +87,10 @@ Global
 		{86E5E703-DC3B-4C0B-AE2E-4C71C05B8C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86E5E703-DC3B-4C0B-AE2E-4C71C05B8C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86E5E703-DC3B-4C0B-AE2E-4C71C05B8C1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44DC2C82-C8FC-48A0-8F42-2F2B50200543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44DC2C82-C8FC-48A0-8F42-2F2B50200543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44DC2C82-C8FC-48A0-8F42-2F2B50200543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44DC2C82-C8FC-48A0-8F42-2F2B50200543}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -99,7 +99,6 @@ Global
 		{2444D4D7-58EE-40AD-9F97-CEE0F4E394CE} = {775FD33B-7994-4CC4-B37A-13FBE9FD6D44}
 		{A62EABDC-4837-4A8C-9DC3-C08E6DBF1A41} = {775FD33B-7994-4CC4-B37A-13FBE9FD6D44}
 		{BA68DB09-BA90-41B7-ADF3-AF3466C9A966} = {775FD33B-7994-4CC4-B37A-13FBE9FD6D44}
-		{F5644D2E-B832-42C7-B655-CD2D4EDC91E6} = {9EA0392E-3B85-4DC4-BF0A-2B4F071324A5}
 		{8CC17594-B390-46E4-B1C6-A31552959996} = {AF9F72D2-1A3F-4B9F-AF01-514AEEDDF985}
 		{8DDEDCC6-4AAF-4189-AF14-5A100D0E84AA} = {AF9F72D2-1A3F-4B9F-AF01-514AEEDDF985}
 		{EF752229-BA2A-4ECC-B371-02AEFC48B050} = {AF9F72D2-1A3F-4B9F-AF01-514AEEDDF985}
@@ -108,6 +107,7 @@ Global
 		{C23282E4-8974-481A-8532-3C7C9016C0BA} = {576B621C-6940-4351-9D03-8A9C4C8F88C3}
 		{6C730BE5-EB4A-414B-A208-D7512256A5E8} = {576B621C-6940-4351-9D03-8A9C4C8F88C3}
 		{86E5E703-DC3B-4C0B-AE2E-4C71C05B8C1A} = {EE276B7B-A331-41B0-B6EE-370816E7EA4E}
+		{44DC2C82-C8FC-48A0-8F42-2F2B50200543} = {9EA0392E-3B85-4DC4-BF0A-2B4F071324A5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AC618AAB-E9E0-45C4-A4B2-FDFF06DAC61E}
